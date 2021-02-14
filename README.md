@@ -1,6 +1,20 @@
 # pandas-challenge
 ## Pandas Homework - Pandas, Pandas, Pandas
 
+Observations: 
+
+*In the District Summary, the overall math and reading passing percentage is 80% for more than 39,000 students that comprise the district.
+* In the School Summary, the schools that have lower student populations, lower budgets, and lower perstudent spending appear to have the best reading and math outcomes. It would be interesting to see if the relative teacher population (student to teacher ratio) has an impact on grades and passing outcome.
+
+* The top 5 performing schools by % of Overall Passing are all Charter schools.
+* The bottom 5 performing schools by % of Overall Passing are all District type schools.
+* Teh School Spending Summary seems to support the notion that increased spending does not impact student math and reading performance.
+* Small and Medium size schools outperform large population schools. The data seems to support the call to look at the impact of fewer students per teacher.
+
+* The School type Summary indicates that Charter schools outperform District type
+
+
+
 ## Background
 
 ## The data dive continues!
